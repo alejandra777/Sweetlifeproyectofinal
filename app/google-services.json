@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856946316221",
+    "firebase_url": "https://ejemplofire-38efe.firebaseio.com",
+    "project_id": "ejemplofire-38efe",
+    "storage_bucket": "ejemplofire-38efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856946316221:android:d71c429f377cf6226ab8d4",
+        "android_client_info": {
+          "package_name": "com.example.ejemplofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856946316221-f6u966ipnf9ngi3jaqjbgac94njlb92c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ejemplofire",
+            "certificate_hash": "b7953e24b7d72f5cb68b65e882f31057c7315d02"
+          }
+        },
+        {
+          "client_id": "856946316221-shop24i6qgvd1s80uaq08igip3bqfi7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTw2kFL6lUbYCLCVs0wvJ0rmkqdCk_aQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856946316221-shop24i6qgvd1s80uaq08igip3bqfi7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
