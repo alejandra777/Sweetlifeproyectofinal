@@ -45,7 +45,8 @@ public class RECETARIO extends AppCompatActivity {
 
         btn_agregar.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View view) {
+
                 RECETA MIRECETA = new RECETA(nom.getText().toString().toUpperCase().trim(), ing.getText().toString().toUpperCase().trim(),pre.getText().toString().toUpperCase().trim());
                 mDatabase.child("").push().setValue(MIRECETA);
                 limpiarcaja();
